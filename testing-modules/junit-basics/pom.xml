@@ -10,7 +10,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>junit-5-basics</artifactId>
+    <artifactId>junit-basics</artifactId>
     <name>jUnit5 basics</name>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
