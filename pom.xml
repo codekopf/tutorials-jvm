@@ -12,6 +12,8 @@
 
     <modules>
         <module>java-basics</module>
+        <module>computer-science</module>
+        <module>retrofit</module>
         <module>testing-modules</module>
     </modules>
 

@@ -1,5 +1,6 @@
 package com.codepills;
 
+import com.codepills.comparator.ComparatorExamples;
 import com.codepills.map.MapSorting;
 
 public class Main {
@@ -8,5 +9,7 @@ public class Main {
         mapSorting.sortMapByKeys();
         mapSorting.sortMapByValues();
         mapSorting.sortObjectMap();
+
+        ComparatorExamples.comparingInt();
     }
 }
